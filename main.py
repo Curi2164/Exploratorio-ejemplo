@@ -12,7 +12,7 @@ inputs_correctos = (1,2,3,4,567)
 
 def start_game():
     print("*********************")
-    print("BIENVENIDO!") # hola
+    print("BIENVENIDO!") #ndeaah
     print("Para jugar debes seleccionar tu próximo movimiento entre estas opciones")
     for i in range(1,6):
         print(f"{i}. {dictionario[i]}")
